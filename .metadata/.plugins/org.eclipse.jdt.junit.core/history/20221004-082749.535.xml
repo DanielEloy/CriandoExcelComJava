@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="LerArquivoExcelTest (1)" project="criando-excel-com-java" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="br.com.feltex.excel.LerArquivoExcelTest" time="2.261" displayname="LerArquivoExcelTest" uniqueid="[engine:junit-jupiter]/[class:br.com.feltex.excel.LerArquivoExcelTest]">
+    <testcase name="lerArquivo" classname="br.com.feltex.excel.LerArquivoExcelTest" time="2.261" displayname="lerArquivo()" uniqueid="[engine:junit-jupiter]/[class:br.com.feltex.excel.LerArquivoExcelTest]/[method:lerArquivo()]"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CriaArquivoExcelTest" project="criando-excel-com-java" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="br.com.eloy.excel.CriaArquivoExcelTest" time="2.369" displayname="CriaArquivoExcelTest" uniqueid="[engine:junit-jupiter]/[class:br.com.eloy.excel.CriaArquivoExcelTest]">
+    <testcase name="criarArquivo" classname="br.com.eloy.excel.CriaArquivoExcelTest" time="2.369" displayname="criarArquivo()" uniqueid="[engine:junit-jupiter]/[class:br.com.eloy.excel.CriaArquivoExcelTest]/[method:criarArquivo()]"/>
+  </testsuite>
+</testrun>
